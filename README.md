@@ -18,8 +18,6 @@ I am a graduate Information Technology Engineer with experience in Android and W
 
 ## 💡 Projects:
 
-*   **Python AI Assistant (Coming Soon)**: Developing an intelligent assistant using Python and AI/ML libraries.
-*   **Web Application with Python Backend (Coming Soon)**: Creating a dynamic web application with Python on the server-side.
 *   **Android Applications (Kotlin)**: Development of mobile applications for the Android platform.
 *   **WindowsForm Applications (C#)**: Building desktop applications using C#.
 *   **Client-Server Application (PHP & MySQL)**: Implementing a web application with server-side logic and a database.
