@@ -17,7 +17,8 @@ I am a graduate Information Technology Engineer with experience in Android and W
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 💡 Projects:
-
+  
+*   **Mini eCommerce REST API (FastAPI + SQLite)**: Modern eCommerce backend system with user authentication (JWT), product management, cart operations, and order creation. Built with FastAPI, SQLAlchemy, and following REST principles.
 *   **Android Applications (Kotlin)**: Development of mobile applications for the Android platform.
 *   **WindowsForm Applications (C#)**: Building desktop applications using C#.
 *   **Client-Server Application (PHP & MySQL)**: Implementing a web application with server-side logic and a database.
