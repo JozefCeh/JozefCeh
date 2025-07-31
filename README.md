@@ -16,6 +16,12 @@ I am a graduate Information Technology Engineer with experience in Android and W
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+*   **Programming Languages**: Python, Kotlin, C#, PHP, Java, HTML, CSS
+*   **Frameworks & Technologies**: FastAPI, SQLAlchemy, Pydantic, JWT, Uvicorn
+*   **Databases**: MySQL, SQLite
+*   **Development Areas**: Android Development, Windows Applications, Web Solutions, REST APIs, eCommerce Systems
+*   **Tools & Platforms**: Git, Joomla, Machine Learning
+
 ## 💡 Projects:
   
 *   **Mini eCommerce REST API (FastAPI + SQLite)**: Modern eCommerce backend system with user authentication (JWT), product management, cart operations, and order creation. Built with FastAPI, SQLAlchemy, and following REST principles.
