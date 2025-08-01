@@ -19,11 +19,12 @@ I am a graduate Information Technology Engineer with experience in Android and W
 *   **Programming Languages**: Python, Kotlin, C#, PHP, Java, HTML, CSS
 *   **Frameworks & Technologies**: FastAPI, SQLAlchemy, Pydantic, JWT, Uvicorn
 *   **Databases**: MySQL, SQLite
-*   **Development Areas**: Android Development, Windows Applications, Web Solutions, REST APIs, eCommerce Systems
+*   **Development Areas**: Android Development, Windows Applications, Web Solutions, REST APIs, eCommerce Systems, Cloud Access Management
 *   **Tools & Platforms**: Git, Joomla, Machine Learning
 
 ## 💡 Projects:
   
+*   **Mini Cloud Access Management API**: A secure and lightweight API built with FastAPI for managing user access and roles using JWT authentication. Features include user registration/login, role management, JWT token-based auth, Swagger UI, and CORS support.
 *   **Mini eCommerce REST API (FastAPI + SQLite)**: Modern eCommerce backend system with user authentication (JWT), product management, cart operations, and order creation. Built with FastAPI, SQLAlchemy, and following REST principles.
 *   **Android Applications (Kotlin)**: Development of mobile applications for the Android platform.
 *   **WindowsForm Applications (C#)**: Building desktop applications using C#.
