@@ -1,6 +1,6 @@
 # Hello, I'm Jozef Ceh! 👋
 
-I am a graduate Information Technology Engineer with experience in Android and Windows application development, as well as web solutions. I possess knowledge in programming languages such as Kotlin, C#, PHP, Java, HTML, and CSS, along with experience working with MySQL and SQLite databases. My current focus is on **Python and Artificial Intelligence**, where I am actively expanding my skills to build innovative solutions. I am seeking freelance projects and opportunities for learning and growth, ready to apply my expertise and contribute to exciting projects.
+I am a graduate Information Technology Engineer with experience in Android and Windows application development, as well as web solutions. I possess knowledge in programming languages such as Kotlin, C#, PHP, Java, HTML, and CSS, along with experience working with MySQL and SQLite databases. My current focus is on Python and Artificial Intelligence, where I am actively expanding my skills to build innovative solutions. I am seeking freelance projects and opportunities for learning and growth, ready to apply my expertise and contribute to exciting projects.
 
 ## 🚀 My Skills:
 
